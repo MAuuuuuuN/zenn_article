@@ -1,5 +1,5 @@
 # zennの記事用リポジトリ
-##　記事作成
+## 記事作成
 npx zenn new:article
 
 ## プレビュー
